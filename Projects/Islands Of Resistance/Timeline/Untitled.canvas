@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"63dcc976d241cd0e","x":-238,"y":-164,"width":181,"height":60,"type":"text","text":"Climate Catastrophe"},
+		{"id":"acaca704c0002e05","x":345,"y":-165,"width":295,"height":60,"type":"text","text":"Death of the Last Founding Father"},
+		{"id":"6b9c9b8bd50cc861","x":20,"y":-165,"width":250,"height":60,"type":"text","text":"City is Constructed"},
+		{"id":"f1ee15f67f9ff584","x":-281,"y":-811,"width":400,"height":400,"type":"file","file":"Projects/Islands Of Resistance/Scenes/Jamie intro.md"},
+		{"id":"65f6aa9a9284fd9b","x":145,"y":-811,"width":400,"height":409,"type":"file","file":"Projects/Islands Of Resistance/Scenes/School day 1 - Lunchtime fireworks.md"}
+	],
+	"edges":[
+		{"id":"b2cbd744a133163e","fromNode":"63dcc976d241cd0e","fromSide":"right","toNode":"6b9c9b8bd50cc861","toSide":"left"},
+		{"id":"6219fe48fd0d4c66","fromNode":"6b9c9b8bd50cc861","fromSide":"right","toNode":"acaca704c0002e05","toSide":"left"}
+	]
+}

@@ -1,0 +1,2 @@
+[[Character Template]]
+[[Location Template]]

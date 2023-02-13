@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/People Map.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/People Map.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maps/People Map.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps/People Map.md"
+                "file": "Home.md"
               }
             }
           },
@@ -187,15 +187,15 @@
   },
   "active": "f71ecefcdbcf1e23",
   "lastOpenFiles": [
-    "Maps/Project Map.md",
+    "Ideas/Feelings.md",
+    "Home.md",
+    "2023-02-13.md",
+    "Ideas/Obsidian Thoughts.md",
     "Maps/People Map.md",
+    "Maps/Project Map.md",
     "Projects/Anti-Oppressive Improv.md",
     "Projects/Ancestors Musical.md",
-    "Home.md",
     "Projects/Solar Climate Concerts.md",
-    "Projects/Aesop Rossy/Aesop Rossy.md",
-    "Projects/Islands Of Resistance/Islands Of Resistance Home.md",
-    "Projects/Islands Of Resistance.md",
-    "Projects/Street Party Project.md"
+    "Projects/Aesop Rossy/Aesop Rossy.md"
   ]
 }

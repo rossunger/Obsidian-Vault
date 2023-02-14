@@ -11,3 +11,4 @@ Art
 - writing
 
 does it work?
+On iPad too

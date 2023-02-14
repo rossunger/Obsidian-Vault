@@ -9,7 +9,3 @@ Art
 - theatre
 - film
 - writing
-
-does it work?
-On iPad too
-Yay

@@ -13,26 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Project Map.md",
+                "file": "Projects/Islands Of Resistance/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f71ecefcdbcf1e23",
+            "id": "48996bd8fa96a376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/Islands Of Resistance/Scenes/Jamie intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f20bf31270533675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Vegitarioun Poultry Chef.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f887004632716a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Feminist Dance Anthems/FDA VOL 1 INTRO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f637b4aa37c4c4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Islands Of Resistance/Scenes/Swanson Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/Vegitarioun Poultry Chef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/Vegitarioun Poultry Chef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Projects/Vegitarioun Poultry Chef.md"
               }
             }
           },
@@ -165,9 +201,17 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "0bd14d5ae2442ea1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -182,20 +226,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f71ecefcdbcf1e23",
+  "active": "f20bf31270533675",
   "lastOpenFiles": [
-    "Ideas/Feelings.md",
-    "Home.md",
-    "2023-02-13.md",
-    "Ideas/Obsidian Thoughts.md",
-    "Maps/People Map.md",
-    "Maps/Project Map.md",
-    "Projects/Anti-Oppressive Improv.md",
-    "Projects/Ancestors Musical.md",
-    "Projects/Solar Climate Concerts.md",
-    "Projects/Aesop Rossy/Aesop Rossy.md"
+    "Projects/Washington Square.md",
+    "Projects/White Rabbit Rituals and Songs.md",
+    "Projects/Winter Holiday blues _ Community Living Room.md",
+    "Projects/Feminist Dance Anthems/FDA vol 4.md",
+    "Projects/Feminist Dance Anthems.md",
+    "Projects/Feminist Dance Anthems/FDA Vol 3.md",
+    "Projects/Feminist Dance Anthems/Validate me.md",
+    "Projects/Feminist Dance Anthems/FDA VOL 1 INTRO.md",
+    "Projects/Feminist Dance Anthems/Roots.md",
+    "Projects/Feminist Dance Anthems/You Are Not Disposable.md"
   ]
 }

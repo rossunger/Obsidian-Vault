@@ -10,7 +10,7 @@
 	- [[Dear Diary]]
 	- [[Dramatic Changes]]
 	- [[Drinking Game]]
-	- [[Ecstatic Dance]]
+	- [[ECSTATIC DANCE]]
 	- [[Emotion God]]
 	- [[Extinction Of Hong Kongers]]
 	- [[Feminist Dance Anthems]]
@@ -68,7 +68,7 @@
 	- [[Time Is Money]]
 	- [[Town Game]]
 	- [[Trailer Stage]]
-	- [[Trauma Game]]
+	- [[Trauma]]
 	- [[Van stories]]
 	- [[Washington Square]]
 	- [[Winter Holidy Blues]]
@@ -81,7 +81,7 @@
 
 Little Quiet Village Town
 Corporate Trainings
-Santa Industries North - xmas musical with garry
+[[Santa Industries North]] - xmas musical with garry
 puppet news musical
 california fires musicf
 harley hefford album

@@ -1,0 +1,31 @@
+{
+  "githubRepo": "obsidian-garden",
+  "githubToken": " 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 ",
+  "githubUserName": "rossunger",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "baseTheme": "dark",
+  "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Ross Unger",
+  "slugifyEnabled": true,
+  "noteIconKey": "dg-note-icon",
+  "defaultNoteIcon": "",
+  "showNoteIconOnTitle": false,
+  "showNoteIconInFileTree": false,
+  "showNoteIconOnInternalLink": false,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": true,
+    "dgShowTags": false
+  }
+}

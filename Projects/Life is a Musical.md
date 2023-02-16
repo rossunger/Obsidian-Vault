@@ -1,4 +1,3 @@
-###### Ross Unger\'s Life is a Musical
 
 *A "Coming out" in all sorts of ways*
 

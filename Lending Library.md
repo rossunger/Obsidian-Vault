@@ -1,0 +1,2 @@
+The idea behind the lending library is to make musical instrument and other technology available for our community to use for important events and social justice causes. In order to cover expenses and maintain the lending library, we also rent the equipment to other folks and organizations at a retail price. This is what allows us to offer the equipment for free / PWYC to nonprofits and other important community events. If you'd like to donate any technology to the lending library, or if you have any questions about how the lending library works, please reach out to us!
+

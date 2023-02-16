@@ -1,3 +1,7 @@
+What does good support look like? How can we ask for help? How do build resilient networks of deep care? How do we show up for each other in a meaningful way
+
+This is a self-help pamphet. This is performance art. This is peer support.
+
 [[FREE CONSULTATIONS 2018]{.underline}](#51xczg1kf9ks)
 
 DEEP CARE 2019

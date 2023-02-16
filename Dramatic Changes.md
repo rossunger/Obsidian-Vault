@@ -42,7 +42,7 @@ We are a not-for-profit organisation that aims to:
 [[Party at the Old Folks Home]]
 
 
-## 
+## Project Ideas
 [[Personal Growth, an Edu-musical]]
 [[PIPELINES and other 21 century protests]]
 [[Overconsumption]]

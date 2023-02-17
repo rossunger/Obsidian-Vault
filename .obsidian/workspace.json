@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "520971ca0ac49c8c",
+        "id": "be2b876a3161635f",
         "type": "tabs",
         "children": [
           {
-            "id": "0950738742c5303e",
+            "id": "b07e25ad96c29280",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Islands Of Resistance/Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48996bd8fa96a376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Islands Of Resistance/Scenes/Jamie intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f20bf31270533675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dramatic Changes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f887004632716a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Feminist Dance Anthems/FDA VOL 1 INTRO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f637b4aa37c4c4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Islands Of Resistance/Scenes/Swanson Intro.md",
+                "file": "Projects/Islands Of Resistance/Characters/Zoli.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sunpath",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dramatic Changes.md",
+                "file": "Projects/Islands Of Resistance/Characters/Zoli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dramatic Changes.md",
+                "file": "Projects/Islands Of Resistance/Characters/Zoli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dramatic Changes.md"
+                "file": "Projects/Islands Of Resistance/Characters/Zoli.md"
               }
             }
           },
@@ -210,13 +161,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,17 +179,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f20bf31270533675",
+  "active": "b07e25ad96c29280",
   "lastOpenFiles": [
-    "Projects/Life is a Musical.md",
-    "Dramatic Changes.md",
-    "Projects/Ecstatic Dance.md",
-    "Projects/Forest Nymph Larp.md",
-    "Lending Library.md",
-    "Projects/Free Consultations.md",
-    "Home.md",
-    "Projects/Anti-Oppressive Improv.md",
-    "Winter Holidy Blues.md",
-    "Maps/Project Map.md"
+    "Projects/Islands Of Resistance/Characters/Yurigama.md",
+    "Projects/Islands Of Resistance/Characters/Xavier.md",
+    "Projects/Islands Of Resistance/Characters/Vero.md",
+    "Projects/Islands Of Resistance/Characters/Vensaag.md",
+    "Projects/Islands Of Resistance/Characters/Vallama.md",
+    "Projects/Islands Of Resistance/Characters/Ula.md",
+    "Projects/Islands Of Resistance/Characters/Tuli.md",
+    "Projects/Islands Of Resistance/Characters/Trist.md",
+    "Projects/Islands Of Resistance/Characters/Tartarama.md",
+    "Projects/Islands Of Resistance/Characters/Swanson.md"
   ]
 }

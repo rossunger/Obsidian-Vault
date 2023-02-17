@@ -1,4 +1,8 @@
+---
+dg-publish: true
+---
 A nonprofit started by Ross Unger and Katie Macdonald in 2016
+www.dramaticchanges.ca
 
 ## What We Do
 We hire artists to help community groups make musicals, films, video games, and other art about local issues. We run workshops, host events, and put together projects based on the needs that we see in our community.

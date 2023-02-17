@@ -1,2 +1,30 @@
-[[_Level 1.canvas]]
+- [[Elevator]] + [[Terminal]]
+- [[Sunbank]]: where folks who are poor go to get sun donations
+- [[Johnson law offices]]
+- [[Swanson's practice]]/ [[hospital]]
+- [[Government offices]]
+    - Gender division
+    - Parliament
+    - Chlorophyll department
+    - Infrastructure department (run by MISMAR)
+- A Hotel (where quinn wakes up)
+- [[The Quinn]] (and dr Calamarino\'s lab): an infamous queer bar on the lower levels.
+- [[The Plaza]]: an "everything" store on one of the lower levels, a home-base for the friendly neighbourhood revolutionaries
+- [[University Level]] (also contains [[Dean Jeffersons office]], [[Lexler's lab]], [[Frat house of the secret society]], and [[late night social club]])
+- [[Charlie's office]] (refugee clinic and artist management office)
+- [[Sahdie's house]]: a refugee who has recently come to the city
+- [[Refugee Camp]], outside the city
+- [[Gender division assault van]]
+- [[Museum]], dedicated to the founders of the city.
+- [[Warehouse of upcycled goods]], located on a giant decommissioned boat that's inside the city
+- [[Elementary school]]
 - [[Solarium]]
+- [[The Silverman home]]
+- Bus / transport
+- Swanson\'s friend's house (emergency surgery)
+- Angelo\'s childhood home
+- [[Suncaves]]
+- [[Gender rehab]]
+- Giant flood expedition
+- [[Imaginariums]]
+- [[Forest floor]]

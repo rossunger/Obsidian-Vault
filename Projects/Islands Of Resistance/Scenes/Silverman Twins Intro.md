@@ -1,16 +1,19 @@
-The Silverman twins sat in the lawyers office and tried to reconcile
+---
+dg-publish: true
+---
+The Silverman twins sat in the [[lawyers office]] and tried to reconcile
 their conflicting feelings, torn between mourning the death of a father
 they never loved, and celebrating an the news of an inheritance they
-never thought they'd see. They were the heirs to the SunPatch empire,
+never thought they'd see. They were the heirs to the [[SunPatch empire]],
 which technically makes them the two wealthiest people on the planet,
 richer, even, than the King of Q.
 
-"Sun patches", kinda like nicotine patches, can replace a person\'s
+"Sun patches", kinda like nicotine patches, can replace a persons
 daily Sun intake, however they are not cheap. The middle class can
-afford them, but folks at the bottom levels can\'t. These patches can
+afford them, but folks at the bottom levels cant. These patches can
 replace food also, as they provide energy to your body.
 
-Judea and Alara had grown up in the sunclave on the first floor (top
+Judea and [[Alara Silverman|Alara]] had grown up in the [[sunclave]] on the first floor (top
 down). They had never experienced what it meant to live in scarcity.
 Every moment of their lives was meticulously planned out for them by a
 now deceased father, and they very quickly learned how impossible it was
@@ -20,11 +23,11 @@ On his 5th birthday, Judea had tried sneak into the office to catch a
 glimpse of the surprise presents he had been overhearing about, and to
 this day he is haunted by the excruciating pain of the electric shock
 that struck his central nervous system. At birth, his father had
-implanted the twins with behaviour control circuitry which allowed him
+implanted the twins with behaviour [[control circuitry]] which allowed him
 to control their every move, which is why they were sitting in the
-lawyer\'s office with a difficult choice to make.
+lawyers office with a difficult choice to make.
 
-Now that Oster Silverman was gone, they were given a one time
+Now that [[Oster Silverman]] was gone, they were given a one time
 opportunity to remove the circuitry, and forge a life of their own, but
 only if they were prepared to give up their share of the Silverman
 fortune. They had 5 minute to decide.
@@ -35,21 +38,27 @@ Decent lifestyle, no complication, nothing to worry about. But he was
 worried about leaving his sister alone in the unknown. If he took the
 inheritance, he would have no way to help his sister.
 
-Lawyer: "Moment of truth"
+[[JOHNSON]]
+Moment of truth
 
-Alara: "Get this thing out of me"
+ALARA
+Get this thing out of me
 
-Lawyer: "Are you sure about this?"
+JOHNSON
+Are you sure about this?
 
-Alara: "GET IT OUT"
+ALARA
+GET IT OUT
 
-Lawyer: "Ok! Ok! And you, Judea?"
+JOHNSON
+Ok! Ok! And you, Judea?
 
 Panicked, Judea opened his mouth to speak, but nothing came out
 
-Lawyer: "Judea?"
+JOHNSON:
+Judea?
 
-\*\*\*
+***
 
 Daily life for Judea had become all about routine. The prescription that
 his father had laid out for him resulted in a subtle monotony that had
@@ -87,23 +96,11 @@ waiting. He had constructed her years ago from a fantasy, but had grown
 quite fond of her. She represented the closest thing to family for him
 these days.
 
-He walked the same pathway he always did, one that had become worn with
-walking. Yet something felt different this time. The feeling seemed to
-originate from somewhere in his body... maybe in his chest. It caused
-him to pick up his pace. The mouth of the cave was just in the distance.
-The feeling in his chest amplified.
+He walked the same pathway he always did, one that had become worn with walking. Yet something felt different this time. The feeling seemed to
+originate from somewhere in his body... maybe in his chest. It caused him to pick up his pace. The mouth of the cave was just in the distance. The feeling in his chest amplified.
 
-"Hello?" He called, pulling the entrance curtain back. Geraldine, his
-companion, greeted him with a big smile and a hug. She was always happy
-to see him, and he liked this aspect of the simulation. "Judea! We have
-a visiter!" She said excitedly. This was not something he anticipated,
-and he wondered how the simulation chose to generate these surprises...
-Geraldine stepped aside to reveal his sister Alara had come to visit. He
-was overcome with happiness, and finally understood the feeling of
-anticipation that had been growing inside of him all morning. He had not
-seen his sister since that day at the lawyers office, no matter his
-resolve to manifest her presence. It seemed he was due to provide a
-bonus to the university for their progress in the simulation.
+"Hello?" He called, pulling the entrance curtain back. [[Geraldine]], his companion, greeted him with a big smile and a hug. She was always happy
+to see him, and he liked this aspect of the simulation. "Judea! We have a visiter!" She said excitedly. This was not something he anticipated, and he wondered how the simulation chose to generate these surprises... Geraldine stepped aside to reveal his sister Alara had come to visit. He was overcome with happiness, and finally understood the feeling of anticipation that had been growing inside of him all morning. He had not seen his sister since that day at the lawyers office, no matter his resolve to manifest her presence. It seemed he was due to provide a bonus to the university for their progress in the simulation.
 
 "Alara...." He started, moving to embrace his sister's image. She looked
 older, dressed informally. "Hi Judea." She returned. Her body language
@@ -116,7 +113,7 @@ of this ever-changing program.
 #judea spends his life trying to find his sister, whichever proves to be
 impossible because his father had planned for that.
 
-#Judea has to deal with a secret society that\'s trying to steal the
+#Judea has to deal with a secret society thats trying to steal the
 secrets
 
 #judea overcomes great pain to protect sister.

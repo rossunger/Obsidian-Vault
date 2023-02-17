@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Steps to submit:
 
 1.  Read ALL the guidelines first.  

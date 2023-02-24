@@ -1,8 +1,6 @@
 ---
 dg-publish: true
 ---
-# I Want
-
 I want to live in a world where they put me on grand pianos
 to play into physical realms the things that are felt but unspoken,
 

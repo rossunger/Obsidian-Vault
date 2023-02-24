@@ -1,8 +1,6 @@
 ---
 dg-publish: true
 ---
-# Faltered At The Altar
-
 We faltered at the altar of eternal sin
 Within the fascia of our passion lay a fascist fin
 caressing carelessly made callouses where what was really needed was a softer skin

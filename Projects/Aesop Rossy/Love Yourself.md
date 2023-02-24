@@ -1,8 +1,6 @@
 ---
 dg-publish: true
 ---
-# Love Yourself
-
 I'm craving ravens roosting, I'm rudely rioting reacting, against the falling of the fantasies, resisting, inconsistencies in the sentimental twistings of the life you used to know and live, whereas now you're just a holey sieve
 
 You're giving, grieving, ghostly passages, caressing counter-levered policies, the politics is torturous, but you gotta sit the porch with us, no exceptions for the virtuous, it's do or die, the murder of the you and I, release your cosmic burdens, so you can live your life in earnest, oh, did I mention that it hurts inside? Bring attention to what's burned alive, you'll be fine once the moisture hits your eye, just keep breathing and you might not die

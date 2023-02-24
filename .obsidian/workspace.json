@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Islands Of Resistance/Characters/Zoli.md",
+                "file": "Projects/Aesop Rossy.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,29 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "403aa52611cfd23b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Projects/Islands Of Resistance/Characters/Zoli.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "907bcca909d72aaa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Islands Of Resistance/Characters/Zoli.md",
+                "file": "Projects/Aesop Rossy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +98,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Islands Of Resistance/Characters/Zoli.md"
+                "file": "Projects/Aesop Rossy.md"
               }
             }
           },
@@ -165,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,17 +163,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b07e25ad96c29280",
+  "active": "907bcca909d72aaa",
   "lastOpenFiles": [
-    "Projects/Islands Of Resistance/Characters/Yurigama.md",
-    "Projects/Islands Of Resistance/Characters/Xavier.md",
-    "Projects/Islands Of Resistance/Characters/Vero.md",
-    "Projects/Islands Of Resistance/Characters/Vensaag.md",
-    "Projects/Islands Of Resistance/Characters/Vallama.md",
-    "Projects/Islands Of Resistance/Characters/Ula.md",
-    "Projects/Islands Of Resistance/Characters/Tuli.md",
-    "Projects/Islands Of Resistance/Characters/Trist.md",
-    "Projects/Islands Of Resistance/Characters/Tartarama.md",
-    "Projects/Islands Of Resistance/Characters/Swanson.md"
+    "Projects/Aesop Rossy/Two steps back, one step forward.md",
+    "Projects/Aesop Rossy/Synergy.md",
+    "Projects/Aesop Rossy/Shapeshifting.md",
+    "Projects/Aesop Rossy/Measure Twice, Cut Once.md",
+    "Projects/Aesop Rossy/Love Yourself.md",
+    "Projects/Aesop Rossy/I Want.md",
+    "Projects/Aesop Rossy/Faltered At The Altar.md",
+    "Projects/Aesop Rossy/Compliments to the chef.md",
+    "Projects/Aesop Rossy.md",
+    "Maps/Project Map.md"
   ]
 }

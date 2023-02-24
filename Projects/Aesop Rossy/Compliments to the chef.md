@@ -1,8 +1,6 @@
 ---
 dg-publish: true
 ---
-# Compliments to the chef
-
 Give me gorgeous gracious people, let me eat 'em 
 Let me suckle on the juices of their inspiration glowing, flowing, boom,
 like an ember to a gas can, damn, 

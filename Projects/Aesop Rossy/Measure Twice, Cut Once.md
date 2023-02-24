@@ -1,8 +1,6 @@
 ---
 dg-publish: true
 ---
-# Measure Twice, Cut Once
-
 Gesturing egregiously for the sacredness you see in me
 Desiduously casting destitute demands for lost residuals
 Corrupted by those ancient rituals,

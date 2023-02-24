@@ -1,8 +1,6 @@
 ---
 dg-publish: true
 ---
-# Shapeshifting
-
 I' been Shapeshifting, 
 sifting through both trash and treasure,
 try'na measure and sort out what goes where and what's missing, 

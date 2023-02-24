@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [[Julienne]]
 - [[Francis]]
 - [[Prince of Q]]
@@ -13,7 +16,7 @@
 - [[Trist]]
 - [[Dr Joseph Calamarino]]
 - [[Hoeven Intro]]
-- [[Jessica Clamarino]]
+- [[Jessica]]
 - [[Charlie]]
 - [[Sahdie]]
 - [[Laska]]

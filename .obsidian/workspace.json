@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Aesop Rossy.md",
+                "file": "Projects/ARCHIVED/Dramatic Changes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Aesop Rossy.md",
+                "file": "Projects/ARCHIVED/Dramatic Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Aesop Rossy.md"
+                "file": "Projects/ARCHIVED/Dramatic Changes.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Aesop Rossy.md",
+                "file": "Projects/ARCHIVED/Dramatic Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,12 +161,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,17 +180,35 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b07e25ad96c29280",
+  "active": "6c49f84c7f238856",
   "lastOpenFiles": [
-    "Projects/Aesop Rossy/The Baker And His Friend.md",
-    "Projects/Aesop Rossy.md",
-    "The Baker And His Friend.md",
-    "Projects/Islands Of Resistance/Scenes/Raschieliem Intro.md",
-    "Home.md",
-    "Raschieliem Intro.md",
-    "readme.md",
-    "Projects/Aesop Rossy/Faltered At The Altar.md",
-    "Projects/Aesop Rossy/Compliments to the chef.md",
+    "Projects/ARCHIVED/PIPELINES and other 21 century protests.md",
+    "Projects/ARCHIVED/Phoenix Game Thing.md",
+    "Projects/ARCHIVED/Personal Growth, an Edu-musical.md",
+    "Projects/ARCHIVED/Party At The Old Folks - Full Synopsis.md",
+    "Projects/ARCHIVED/Party at the Old Folk_s Home.md",
+    "Projects/ARCHIVED/Overconsumption.md",
+    "Projects/ARCHIVED/Open House Project.md",
+    "Projects/ARCHIVED/Lending Library.md",
+    "Projects/ARCHIVED/Winter’s Journey.md",
+    "Projects/ARCHIVED/Winter Holidy Blues.md",
+    "Projects/ARCHIVED/Washington Square.md",
+    "Projects/ARCHIVED/Vegitarioun Poultry Chef.md",
+    "Projects/ARCHIVED/Street Party Project.md",
+    "Projects/ARCHIVED/Speed friending with Dramatic Changes.md",
+    "Projects/ARCHIVED/Social Justice Community School.md",
+    "Projects/ARCHIVED/Social Justice Community Bank.md",
+    "Projects/ARCHIVED/Sliding Doors style musical_ abortion adoption affection.md",
+    "Projects/ARCHIVED/Shipwreck.md",
+    "Projects/ARCHIVED/Santa Industries North.md",
+    "Projects/ARCHIVED/Rum and Raisin Script.md",
+    "Projects/ARCHIVED/ROOTLR.md",
+    "Projects/ARCHIVED/Relationship Analysis Pamphlet.md",
+    "Projects/ARCHIVED/Dear diary film script.md",
+    "Projects/Climate War Game.md",
+    "Projects/ClimateWarGame.md",
+    "Ideas/Obsidian Thoughts.md",
+    "Projects/ARCHIVED",
     "Research/StableDiffusion/Images/ismail_inceoglu.jpg",
     "Research/StableDiffusion/Images/ThomasKinkade.png",
     "Research/StableDiffusion/Images/Sparth.png",
@@ -201,13 +219,11 @@
     "Research/StableDiffusion/Images/Jessica Rossier.png",
     "Research/StableDiffusion/Images/ian_mcque.jpg",
     "Research/StableDiffusion/Images/Hubert Robert.png",
-    "Research/StableDiffusion/STABLE DIFFUSION.md",
     "Research/StableDiffusion/Images",
     "Research/StableDiffusion",
     "Research",
     "New folder",
     "Projects/StableDiffusion/Images",
-    "Projects/StableDiffusion/New folder",
-    "STABLE DIFFUSION.md"
+    "Projects/StableDiffusion/New folder"
   ]
 }

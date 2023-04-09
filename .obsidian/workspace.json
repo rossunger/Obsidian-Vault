@@ -143,6 +143,23 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "47ff19e1cba4f7a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Aesop Rossy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -163,17 +180,34 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "907bcca909d72aaa",
+  "active": "b07e25ad96c29280",
   "lastOpenFiles": [
-    "Projects/Aesop Rossy/Two steps back, one step forward.md",
-    "Projects/Aesop Rossy/Synergy.md",
-    "Projects/Aesop Rossy/Shapeshifting.md",
-    "Projects/Aesop Rossy/Measure Twice, Cut Once.md",
-    "Projects/Aesop Rossy/Love Yourself.md",
-    "Projects/Aesop Rossy/I Want.md",
+    "Projects/Aesop Rossy/The Baker And His Friend.md",
+    "Projects/Aesop Rossy.md",
+    "The Baker And His Friend.md",
+    "Projects/Islands Of Resistance/Scenes/Raschieliem Intro.md",
+    "Home.md",
+    "Raschieliem Intro.md",
+    "readme.md",
     "Projects/Aesop Rossy/Faltered At The Altar.md",
     "Projects/Aesop Rossy/Compliments to the chef.md",
-    "Projects/Aesop Rossy.md",
-    "Maps/Project Map.md"
+    "Research/StableDiffusion/Images/ismail_inceoglu.jpg",
+    "Research/StableDiffusion/Images/ThomasKinkade.png",
+    "Research/StableDiffusion/Images/Sparth.png",
+    "Research/StableDiffusion/Images/Raphael Lacoste.png",
+    "Research/StableDiffusion/Images/Peter Mohrbacher.png",
+    "Research/StableDiffusion/Images/Marc Simonetti.png",
+    "Research/StableDiffusion/Images/Makoto Shinkai.png",
+    "Research/StableDiffusion/Images/Jessica Rossier.png",
+    "Research/StableDiffusion/Images/ian_mcque.jpg",
+    "Research/StableDiffusion/Images/Hubert Robert.png",
+    "Research/StableDiffusion/STABLE DIFFUSION.md",
+    "Research/StableDiffusion/Images",
+    "Research/StableDiffusion",
+    "Research",
+    "New folder",
+    "Projects/StableDiffusion/Images",
+    "Projects/StableDiffusion/New folder",
+    "STABLE DIFFUSION.md"
   ]
 }

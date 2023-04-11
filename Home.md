@@ -7,7 +7,7 @@ dg-show-local-graph: true
 Welcome to the Ross Unger universe.
 
 # Active Projects
-???
+What am I doing?
 
 # Projects
 [[Aesop Rossy]]

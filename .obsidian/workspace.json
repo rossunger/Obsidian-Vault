@@ -11,10 +11,11 @@
             "id": "b07e25ad96c29280",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "Home.md"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -146,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

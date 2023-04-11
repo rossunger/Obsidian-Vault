@@ -11,11 +11,10 @@
             "id": "b07e25ad96c29280",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Projects/ARCHIVED/Dramatic Changes.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "file": "Home.md"
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/ARCHIVED/Dramatic Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/ARCHIVED/Dramatic Changes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/ARCHIVED/Dramatic Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,8 +175,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "6c49f84c7f238856",
+  "active": "b07e25ad96c29280",
   "lastOpenFiles": [
+    "Home.md",
+    "Projects/ARCHIVED/Dramatic Changes.md",
     "Projects/ARCHIVED/PIPELINES and other 21 century protests.md",
     "Projects/ARCHIVED/Phoenix Game Thing.md",
     "Projects/ARCHIVED/Personal Growth, an Edu-musical.md",
@@ -206,8 +203,6 @@
     "Projects/ARCHIVED/Relationship Analysis Pamphlet.md",
     "Projects/ARCHIVED/Dear diary film script.md",
     "Projects/Climate War Game.md",
-    "Projects/ClimateWarGame.md",
-    "Ideas/Obsidian Thoughts.md",
     "Projects/ARCHIVED",
     "Research/StableDiffusion/Images/ismail_inceoglu.jpg",
     "Research/StableDiffusion/Images/ThomasKinkade.png",

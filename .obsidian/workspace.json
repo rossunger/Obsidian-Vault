@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Ideas/Troy Art Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07d75950e54b603c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Love Stories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cae4299deaee72c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Dialog builder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d27dd472b4bb007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Love Stories.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,8 +85,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sunpath",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/Love Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Projects/Love Stories.md"
               }
             }
           },
@@ -150,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/Love Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,10 +217,32 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b07e25ad96c29280",
+  "active": "07d75950e54b603c",
   "lastOpenFiles": [
-    "Home.md",
+    "Projects/LoveStories/Vol3/ComeOnHomeNow.mp3",
+    "Projects/LoveStories/Vol4/I will not give up on you.m4a",
+    "Projects/LoveStories/Ross and Katie Giving Up On You recording20151206172248.mp3",
+    "Projects/LoveStories/Banjitar groove tune recording20150629130419.mp3",
+    "Projects/LoveStories/Lullaby  a grown man cries.mp3",
+    "Projects/LoveStories/oceans of snow.mp3",
+    "Projects/LoveStories/oceans of snow 2.mp3",
+    "Projects/LoveStories/not your fault .mp3",
+    "Projects/LoveStories/I dont want to hurt you.m4a",
+    "Projects/LoveStories/how was I to know .mp3",
+    "Projects/LoveStories/How did I fall in love with an asshole recording20160209180819.mp3",
+    "Projects/ARCHIVED/Shipwreck.md",
+    "Projects/Love Stories.md",
+    "Ideas/Troy Art Game.md",
+    "Ideas/Dialog builder.md",
+    "Ideas/Ross Map.md",
+    "Ideas/Obsidian Thoughts.md",
     "Projects/ARCHIVED/Dramatic Changes.md",
+    "Ideas/Coming Home Festival.md",
+    "Ideas/Lakota Teachings.md",
+    "Ideas/Feelings.md",
+    "Home.md",
+    "Projects/Aesop Rossy.md",
+    "Projects/ClimateWarGame.md",
     "Projects/ARCHIVED/PIPELINES and other 21 century protests.md",
     "Projects/ARCHIVED/Phoenix Game Thing.md",
     "Projects/ARCHIVED/Personal Growth, an Edu-musical.md",
@@ -196,19 +255,6 @@
     "Projects/ARCHIVED/Winter Holidy Blues.md",
     "Projects/ARCHIVED/Washington Square.md",
     "Projects/ARCHIVED/Vegitarioun Poultry Chef.md",
-    "Projects/ARCHIVED/Street Party Project.md",
-    "Projects/ARCHIVED/Speed friending with Dramatic Changes.md",
-    "Projects/ARCHIVED/Social Justice Community School.md",
-    "Projects/ARCHIVED/Social Justice Community Bank.md",
-    "Projects/ARCHIVED/Sliding Doors style musical_ abortion adoption affection.md",
-    "Projects/ARCHIVED/Shipwreck.md",
-    "Projects/ARCHIVED/Santa Industries North.md",
-    "Projects/ARCHIVED/Rum and Raisin Script.md",
-    "Projects/ARCHIVED/ROOTLR.md",
-    "Projects/ARCHIVED/Relationship Analysis Pamphlet.md",
-    "Projects/ARCHIVED/Dear diary film script.md",
-    "Projects/Climate War Game.md",
-    "Projects/ARCHIVED",
     "Research/StableDiffusion/Images/ismail_inceoglu.jpg",
     "Research/StableDiffusion/Images/ThomasKinkade.png",
     "Research/StableDiffusion/Images/Sparth.png",
@@ -218,12 +264,6 @@
     "Research/StableDiffusion/Images/Makoto Shinkai.png",
     "Research/StableDiffusion/Images/Jessica Rossier.png",
     "Research/StableDiffusion/Images/ian_mcque.jpg",
-    "Research/StableDiffusion/Images/Hubert Robert.png",
-    "Research/StableDiffusion/Images",
-    "Research/StableDiffusion",
-    "Research",
-    "New folder",
-    "Projects/StableDiffusion/Images",
-    "Projects/StableDiffusion/New folder"
+    "Research/StableDiffusion/Images/Hubert Robert.png"
   ]
 }

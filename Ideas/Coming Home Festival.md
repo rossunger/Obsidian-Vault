@@ -11,4 +11,7 @@ Workshops during the day
 Sacred fire all the time. Lodges once or twice a day.
 Feast. 
 Light social time in between workshops
-Dancing and music at night? ecstatic dance...
+Dancing and music at night? ecstatic dance...concerts
+
+brittany: something about chakras... each day is a focus on a specific chakra?
+

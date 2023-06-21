@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 # 1
+![[01.mp3]]
 When I walked in to meet you, you were glowly.
 Simply glowing. With a warm angelic halo round your soul.
 
@@ -32,6 +33,7 @@ Magnetic blood
 Magnetic blood
 
 # 2
+![[02.mp3]]
 You were stuck in a luxury cage that they said was your home
 You were stuck and you'd tried to get out, but it's all you have known
 You were stuck dropping hints, leaving notes, of how you're screaming inside
@@ -50,6 +52,7 @@ If you want that, I'll be waiting,
 you just say the word, we'll break the damn door down
 
 # 3
+![[03.mp3]]
 It's kinda quiet. Kinda lonely. 
 But you know there was no other way to go.
 
@@ -67,6 +70,7 @@ Should we build a life together
 Form a family in this home?
 
 # 4
+![[04.mp3]]]
 We got the call.
 Divine intervention.
 Almost broke my skull
@@ -120,6 +124,7 @@ Wakan
 Wakan
 
 # 5
+![[05.mp3]]
 I accept there are things in this world that we cant understand
 And the words that we speak can't explain what we feel in our hands
 Yet we try, hear me speak, feel the truth sinking further away
@@ -141,6 +146,7 @@ And does that still feel right for you, when you look beyond the fear?
 Then I stand by our choice and trust the universe to steer
 
 # 6
+![[06.mp3]]
 We built a ship to take us far from this place
 To carry our hearts, made to look like our face
 From blood we forged our compass, our passions filled the sail,
@@ -178,6 +184,7 @@ And we've long forgotten, someone's meant to steer
 *Turbulence*
 
 # 7
+![[07.mp3]]
 We searched every corner
 Tryin'a find the leak
 We're shoveling out water
@@ -198,6 +205,7 @@ No you can't take the boat,
 you just have to trust
 
 # 8
+![[08.mp3]]
 This boat was a gift, precious cargo, now we're sending it back
 It's not time, gotta figure out life, clean our ears and our throats
 Learn to swim, and let go of all the garbage that's weighing us down
@@ -225,7 +233,7 @@ Why'd I kill her?
 Why oh why oh why oh why oh why oh why
 
 # 9
-Overnight the world shut down
+![[09.mp3]]Overnight the world shut down
 Time stood still, as I watched you eternally drown
 And I try to show up but there's walls made of glass I can't see
 completely surrounding me
@@ -251,6 +259,7 @@ The tragedy is even so we can't be what we're not
 Theres nothing left to do but wait
 
 # 10
+![[10.mp3]]
 You're here like a Fury
 tryna dish out my fate
 But I didn't drown you,
@@ -269,6 +278,7 @@ Time. Lots of time. With a tiny pinch of space
 And a faith in our future, future of the human race
 
 # 11
+![[11.mp3]]
 Every time you see me moving 
 I know it's adding to your pain
 It's a shame we're tied by threads 
@@ -293,6 +303,7 @@ It's a gift and I accept,
 time for sadness and to reflect
 
 # 12
+![[12.mp3]]
 It's over. 
 This phase with us is over
 And when i think of all we've lost, i cant believe my mind
@@ -325,6 +336,7 @@ forever woven
 forever woven in the fates
 
 # 13
+![[13.mp3]]
 there's a hollow house, 
 that I barely step foot in now
 Somehow I can't decide to leave it behind

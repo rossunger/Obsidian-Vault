@@ -1,56 +1,23 @@
 INDEX
-
-1)  Trauma Puzzle Game (2017)
-
-2)  Talking to your parts (2020)
-
-3)  Musical RPG (2014)
-
+[[Trauma Game]]  (2017)
+[[Talking To Your Parts game]] (2020)
+[[Musical RPG]] (2014)
 4)  Spirits (2020)
-
-5)  Climate Action Warriors (2019)
-
+[[Climate War Game]] (2019)
 6)  Water Fight
-
 7)  Twin rulers.
-
     a.  Turn based city management
-
     b.  You take turns governing a city, and developing support for your
         > faction
 
 8)  Talented Orphan (circa 2013)
-
 9)  Oxygen bubble
-
 10) Evolution
-
 11) Rape culture
-
 12) Tribe
-
 13) Social Media Alternate Reality
+[[Watch, the]]
 
-14) The Watch
-
-[[TRAUMA PUZZLE
-GAME]{.underline}](https://docs.google.com/document/d/1qzOmHduS-82Y9KAyn7f6i2StX0UeOX4IzGqXSyWz0M8/edit)
-
-A puzzle game where the challenges are the literal manifestations of the
-metaphors that people use to talk about trauma; feeling "cloudy",
-storms, glazing over, putting up walls, floating away, freezing,
-monsters, ghosts, mirroring, reflecting, a maze, floor falling out from
-under you, grey, black, dark,
-
-Voice-over talks about lived experiences of trauma as you engage with
-each step of the puzzle (a la bastion)
-
-[[TALKING TO YOUR
-PARTS]{.underline}](https://docs.google.com/document/d/1T_CNt_9g2-yShm5D0UGjDGP94FyKJAR5gG20zhEyaoI/edit)
-
-A game about talking to your parts inspired by parts work therapy.
-
-A puzzle platformer where you're trying to unite your parts.
 
 MUSICAL RPG
 
@@ -79,23 +46,10 @@ SPIRITS
 
 A game where you help spirits communicate with humans.
 
-[[Climate action
-warriors]{.underline}](https://docs.google.com/document/d/1bDVy6NT68NTNl25Ve_-C3L4IIQoYVHIE0xAD0lMTOaA/edit)
-
-Help humanity survive the climate catastrophe. What role will you take?
-Will you build networks and connect people and resources? Will you fight
-on the front line? Will you become a leader and make decisions? Will you
-collect knowledge?
-
-The land people, boat people, the sky people, the star people, the
-burrow people, deep sea people,
-
-WATER FIGHT
 
 TWIN RULERS
 
-A town management game where each player takes turns trying to steer the
-town to meet their personal goals.
+A town management game where each player takes turns trying to steer the town to meet their personal goals.
 
 TALENTED ORPHAN
 
@@ -171,72 +125,6 @@ SOCIAL MEDIA ALTERNATE REALITY
 
 You progress by social justice sharing statuses on facebook
 
-THE WATCH
-
-You control a magical watch that can control the tempo of the world (and
-music). It can also go back to a previous time
-
-Some objects are unaffected by time
-
-The Inventor (who invented the watch) keeps popping up at various points
-(because he can time travel to older versions of himself) and giving you
-either advice or revealing more story.
-
-The Watch can adjust an object's "Resonance" (a musical loop) using its
-"Resonator". It can also change the tempo of the world.
-
-Moral of the game: just because something is different, doesn't mean
-it's bad.
-
--   at the start you're trying to make all the sounds harmonious. Later
-    > you realise that they already were, you just weren't listening to
-    > them right\...
-
-STORY
-
--   Before "The Watch", all sound was chaos (noise). Enough chaos, and
-    > your brains starts to block it out (you have a control that can
-    > block out sound). You can make music, but it's only as temporary
-    > as the act of making it.
-
--   When The Inventor created The Watch, humanity rejoiced. They started
-    > to make everything sound harmonious permanently. There was a
-    > Mysterious Terrorist group that resisted this change calling it
-    > unnatural, but they disappeared as mysteriously as they appeared.
-
--   Eventually everything became so uniform, that "The Uniformity" was
-    > noise. Humanity set about trying to fix everything back to the old
-    > ways, but it was too late (everything sounded like a variation on
-    > The Uniformity). They couldn't remember anything except The
-    > Uniformity.
-
--   The Inventor devised a plan. He revealed to you that The Watch could
-    > reverse time if you set it to a negative tempo (your brain would
-    > go back to where you were at that time, but with added knowledge).
-    > However, no matter how far back you go, humanity always reached
-    > the same outcome. They just could not be convinced that The
-    > Uniformity was a bad thing until it was too late. And no matter
-    > how he tried, he couldn't un-invent The Watch; someone would alway
-    > re-invent it. So he would send you back in time to enlist the
-    > Mysterious Terrorist Group to record all the original Resonances
-    > of every object and hide them until the time was right.
-
--   Finally
-
-```{=html}
-<!-- -->
-```
--   A watch appears in your room. You are confused, and after asking
-    > around to see if it belongs to anyone, you decide to keep it.
-    > Eventually you discover that it was sent back in time to prevent
-    > chaos.
-
--   The guy who invented "The Watch" sends it back in time and gives you
-    > the watch (which is unaffected by time). You gradually discover
-    > that the corporation who invented the watch was planning on using
-    > it to control all
-
--   Characters teach you songs.
 
 ANCESTORS
 
@@ -250,87 +138,47 @@ A game where you choose what you play based on what's happening in your
 life.
 
 GAME MECHANICS
-
 -   Verbs
-
     -   Seek/Find
-
     -   Collect
-
     -   Combine
-
     -   Explore/Discover
-
     -   Build/Make
-
     -   Avoid
-
     -   Communicate
-
     -   Understand
-
     -   Remember
-
     -   Decide
-
     -   Calculate
-
     -   Observe/notice
-
     -   Sort/Clean/Make order from chaos, rearrange
-
     -   Break/Destroy
-
     -   Control/Operate (including guns, vehicles, tools)
-
     -   Imagine??? /Invent, alter reality
-
     -   Practice?? Exercise
-
     -   Learn
-
     -   Play??
 
--   
-
 TYPES OF GAMES
-
-Action games
-
--   Platformer (a la mario)
-
+- Action 
+- Platformer (a la mario)
 -   Shooter (a la doom)
-
 -   Fighting (a la mortal combat)
-
--   Beat em up (a la bastion)
-
+- hack n slash (a la bastion, or diablo)
 -   Stealth (a la batman)
-
 -   Survival (a la hello neighbour)
-
 -   Rhythm (a la guitar hero)
 
 Adventure games
-
 -   Text adventure (choose your own adventure)
-
 -   Visual novels ()
-
 -   Point and click (sam and max)
 
--   
-
 Role-playing games
-
 -   Action rpg (diablo)
-
 -   Roguelike / Roguelite
 
--   
-
 Simulation games
-
 -   Construction and management (simcity)
 
 -   Vehicle sim / Medical sim
@@ -364,54 +212,29 @@ Puzzle games
 Idle games
 
 How To Engage Players
-
 1.  Mystery
-
 2.  Mastery
-
 3.  Mental Challenge
-
 4.  Narrative
-
 5.  Novelty
-
 6.  Flow
 
 Interaction Design
-
 -   Actions that we do in real life
-
     -   Move
-
     -   Think
-
         -   Plan
-
         -   Group / stereotype
-
     -   Eat
-
     -   Dance (move in time to other stimuli)
-
 -   Feelings / human moments
 
-    -   
-
 -   Conflicts
-
     -   Wants vs needs
-
     -   Living beyond means
 
-    -   
-
 -   Themes
-
     -   Listen and advise
-
-    -   
-
-    -   
 
 How do we tie social justice into games?
 

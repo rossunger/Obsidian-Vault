@@ -3,10 +3,6 @@ IDEAS
 	- Do you want to discover Ross by reading | listening | watching
 	- Do you 
 
- 
-```dataview
-LIST from "Ideas"
-```
 
 
 Music
@@ -18,13 +14,13 @@ Music
 - Songs and Poetry
 
 Games
-- trauma game
-- musical rpg
-- talking to your parts
-- town game
-- time is money
-- the watch
-- troy art game
+- [[Trauma Game]]
+- [[Musical RPG]]
+- [[Talking To Your Parts game]]
+- [[Town Game]]
+- [[Time Is Money]]
+- [[Watch, the]]
+- [[troy art game]]
 
 Writing 
 - trauma

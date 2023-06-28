@@ -31,7 +31,7 @@
 	- [[Kingdom Of Infinite Space]] with David Clark 
 	- [[Labyrinth]]
 	- [[Lending Library]]
-	- [[Life Is A Musical ]]
+	- [[Life is a Musical]]
 	- [[Life Doula]]
 	- [[Love Stories]]
 	- [[Man in the Iron Mask]]
@@ -49,7 +49,7 @@
 	- [[Personal Growth]]
 	- [[Project Management Software]]
 	- [[Queer Circles]]
-	- [[Quota, the]]
+	- [[Quota, The]]
 	- [[Rootlr]]
 	- [[Ross Unger Real Book]] 
 	- [[Ross Unger Records]] aka Music Catalogue
@@ -68,7 +68,7 @@
 	- [[Time Is Money]]
 	- [[Town Game]]
 	- [[Trailer Stage]]
-	- [[Trauma]]
+	- [[Trauma Game]]
 	- [[Van stories]]
 	- [[Washington Square]]
 	- [[Winter Holidy Blues]]

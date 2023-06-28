@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Love Stories.md",
+                "file": "Ideas/Ross Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Love Stories.md",
+                "file": "Ideas/Obsidian Thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,6 +101,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "fc02162de3e546be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Love Stories.md",
+                "file": "Ideas/Obsidian Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Love Stories.md"
+                "file": "Ideas/Obsidian Thoughts.md"
               }
             }
           },
@@ -187,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Love Stories.md",
+                "file": "Ideas/Obsidian Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,44 +225,44 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "07d75950e54b603c",
+  "active": "2d27dd472b4bb007",
   "lastOpenFiles": [
-    "Projects/LoveStories/Vol3/ComeOnHomeNow.mp3",
-    "Projects/LoveStories/Vol4/I will not give up on you.m4a",
-    "Projects/LoveStories/Ross and Katie Giving Up On You recording20151206172248.mp3",
-    "Projects/LoveStories/Banjitar groove tune recording20150629130419.mp3",
-    "Projects/LoveStories/Lullaby  a grown man cries.mp3",
-    "Projects/LoveStories/oceans of snow.mp3",
-    "Projects/LoveStories/oceans of snow 2.mp3",
-    "Projects/LoveStories/not your fault .mp3",
-    "Projects/LoveStories/I dont want to hurt you.m4a",
-    "Projects/LoveStories/how was I to know .mp3",
-    "Projects/LoveStories/How did I fall in love with an asshole recording20160209180819.mp3",
-    "Projects/ARCHIVED/Shipwreck.md",
-    "Projects/Love Stories.md",
-    "Ideas/Troy Art Game.md",
-    "Ideas/Dialog builder.md",
-    "Ideas/Ross Map.md",
-    "Ideas/Obsidian Thoughts.md",
-    "Projects/ARCHIVED/Dramatic Changes.md",
     "Ideas/Coming Home Festival.md",
-    "Ideas/Lakota Teachings.md",
-    "Ideas/Feelings.md",
+    "Projects/Aesop Rossy/Aesop Rossy.md",
+    "Projects/Ross Unger Records.md",
+    "Ideas/Ross Map.md",
     "Home.md",
-    "Projects/Aesop Rossy.md",
-    "Projects/ClimateWarGame.md",
-    "Projects/ARCHIVED/PIPELINES and other 21 century protests.md",
-    "Projects/ARCHIVED/Phoenix Game Thing.md",
-    "Projects/ARCHIVED/Personal Growth, an Edu-musical.md",
-    "Projects/ARCHIVED/Party At The Old Folks - Full Synopsis.md",
-    "Projects/ARCHIVED/Party at the Old Folk_s Home.md",
+    "Maps/Art Mediums MOC.md",
+    "Maps/List of Ideas for Games.md",
+    "Projects/Games/Watch, the.md",
+    "Projects/Games/Trumpet Game.md",
+    "Projects/Games/Trauma Game.md",
+    "Projects/Games/Talking To Your Parts game.md",
+    "Maps/People Map.md",
     "Projects/ARCHIVED/Overconsumption.md",
-    "Projects/ARCHIVED/Open House Project.md",
-    "Projects/ARCHIVED/Lending Library.md",
-    "Projects/ARCHIVED/Winter’s Journey.md",
-    "Projects/ARCHIVED/Winter Holidy Blues.md",
-    "Projects/ARCHIVED/Washington Square.md",
-    "Projects/ARCHIVED/Vegitarioun Poultry Chef.md",
+    "Projects/ARCHIVED/Party at the Old Folk's Home.md",
+    "Projects/ARCHIVED/Party At The Old Folks - Full Synopsis.md",
+    "Projects/Games/Town Game.md",
+    "Projects/Musicals/Quota, The.md",
+    "Projects/Games/Musical RPG.md",
+    "Projects/Feminist Dance Anthems/Autonomous Love.md",
+    "Projects/Feminist Dance Anthems/FDA Vol 3.md",
+    "Projects/Games/Climate War Game.md",
+    "Projects/Games/Climate War Game.md",
+    "Projects/Islands Of Resistance/Islands Of Resistance Home.md",
+    "Projects/Games",
+    "Projects/Musicals",
+    "Maps/Project Map.md",
+    "Projects/Musicals/Boat Musical.md",
+    "Projects/LoveStories/Love Stories.md",
+    "Projects/LoveStories/Guitar warm low.3gpp",
+    "Projects/LoveStories/Vol4/OhMoon.mp3",
+    "Projects/LoveStories/Lullaby b.3gpp",
+    "Projects/LoveStories/Lament.mp3",
+    "Projects/LoveStories/How long it would take up heal.3gpp",
+    "Projects/LoveStories/Folk song.3gpp",
+    "Projects/LoveStories/Jackie f.3gpp",
+    "Projects/LoveStories/Fire watch 1.3gpp",
     "Research/StableDiffusion/Images/ismail_inceoglu.jpg",
     "Research/StableDiffusion/Images/ThomasKinkade.png",
     "Research/StableDiffusion/Images/Sparth.png",

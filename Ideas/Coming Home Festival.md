@@ -3,7 +3,7 @@
 STORY
 Come home to yourself. 
 
-Travel with us to other dimensions in search of new perspectives, missing pieces, ancestoral memories
+Travel with us to other dimensions in search of new perspectives, missing pieces, ancestral memories
 
 let us come home to ourselves, together
 
@@ -15,3 +15,6 @@ Dancing and music at night? ecstatic dance...concerts
 
 brittany: something about chakras... each day is a focus on a specific chakra?
 
+
+LOCATION:
+- janes?

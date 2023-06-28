@@ -19,7 +19,7 @@ We are a not-for-profit organisation that aims to:
 [[Street Party Project]]
 [[Lending Library]]
 [[Kids Books]]
-[[Quota, the]]
+[[Quota, The]]
 [[Islands Of Resistance Home|Islands Of Resistance]]
 [[Winter Holidy Blues]]
 [[Anti-Oppressive Improv]]
@@ -27,7 +27,7 @@ We are a not-for-profit organisation that aims to:
 [[Free Consultations]]
 [[Ecstatic Dance]]
 [[Sacred Sound Ceremony]]
-[[Life Is A Musical]]
+[[Life is a Musical]]
 [[Social Justice Community School]]
 [[Social Justice Community Bank]]
 

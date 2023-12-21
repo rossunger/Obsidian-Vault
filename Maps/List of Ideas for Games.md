@@ -1,22 +1,21 @@
 INDEX
-[[Trauma Game]]  (2017)
-[[Talking To Your Parts game]] (2020)
-[[Musical RPG]] (2014)
+1. [[Trauma Game]]  (2017)
+2. [[Talking To Your Parts game]] (2020)
+3. [[Musical RPG]] (2014)
 4)  Spirits (2020)
-[[Climate War Game]] (2019)
+5. [[Climate War Game]] (2019)
 6)  Water Fight
 7)  Twin rulers.
     a.  Turn based city management
     b.  You take turns governing a city, and developing support for your
         > faction
-
 8)  Talented Orphan (circa 2013)
 9)  Oxygen bubble
 10) Evolution
 11) Rape culture
 12) Tribe
 13) Social Media Alternate Reality
-[[Watch, the]]
+14) [[Watch, the]]
 
 
 MUSICAL RPG

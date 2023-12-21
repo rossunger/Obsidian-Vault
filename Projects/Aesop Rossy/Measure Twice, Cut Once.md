@@ -1,6 +1,9 @@
 ---
 dg-publish: true
+Finished: true
+Track Number: 8
 ---
+![[MeasureTwiceCutOnce.mp3]]
 Gesturing egregiously for the sacredness you see in me
 Desiduously casting destitute demands for lost residuals
 Corrupted by those ancient rituals,

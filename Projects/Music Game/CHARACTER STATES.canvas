@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"Idle","id":"e8c49e10ac75daf1","x":-440,"y":-360,"width":133,"height":67},
+		{"type":"text","text":"Walk","id":"38a007d39cf20b07","x":-240,"y":-360,"width":133,"height":67},
+		{"type":"text","text":"Talk","id":"3f1cd54fcdf607e8","x":-60,"y":-360,"width":133,"height":67},
+		{"type":"text","text":"Pray","id":"7956945668bbee12","x":-440,"y":-200,"width":133,"height":67},
+		{"type":"text","text":"Observe","id":"e1d2a0d36ac9a950","x":-240,"y":-200,"width":133,"height":67}
+	],
+	"edges":[]
+}

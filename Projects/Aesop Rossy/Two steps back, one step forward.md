@@ -1,6 +1,9 @@
 ---
 dg-publish: true
+Finished: true
+Track Number: 9
 ---
+![[Two steps back one step forward 3.m4a]]
 Well, ever since I heard about it Ive been searching for this golden path,
 I wanna lay and soak in it like it's a holy bath
 Where everything's in flow and there's no doubt you're on the right track

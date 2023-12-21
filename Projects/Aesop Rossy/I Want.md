@@ -1,6 +1,9 @@
 ---
 dg-publish: true
+Finished: true
+Track Number: 4
 ---
+![[I want 9.m4a]]
 I want to live in a world where they put me on grand pianos
 to play into physical realms the things that are felt but unspoken,
 

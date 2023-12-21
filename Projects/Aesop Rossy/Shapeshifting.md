@@ -1,6 +1,9 @@
 ---
 dg-publish: true
+Finished: true
+Track Number: 1
 ---
+![[Shapeshifting 8.m4a]]
 I' been Shapeshifting, 
 sifting through both trash and treasure,
 try'na measure and sort out what goes where and what's missing, 

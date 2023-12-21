@@ -1,5 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#9270ff",
   "theme": "obsidian",
-  "baseFontSize": 21
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "HideMetadata"
+  ],
+  "cssTheme": "Minimal"
 }

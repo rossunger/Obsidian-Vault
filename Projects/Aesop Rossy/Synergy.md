@@ -1,6 +1,9 @@
 ---
 dg-publish: true
+Finished: true
+Track Number: 3
 ---
+![[Synergy 5.m4a]]
 I'm sensuously sliding in, long distance, business savvy, back door alley pal-ing with a Hali gal who's cards are pressed against her chest,
 she's playfully impressed with jesting,
 dressed in boyish charm, 

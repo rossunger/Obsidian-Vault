@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e34d0f757a13e24e","x":-603,"y":-611,"width":250,"height":60,"type":"text","text":""},
+		{"type":"text","text":"Plants","id":"f69aba521cbbdab3","x":-100,"y":-260,"width":120,"height":60}
+	],
+	"edges":[]
+}

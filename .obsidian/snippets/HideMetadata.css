@@ -1,0 +1,5 @@
+/* ====== Hide YAML ======== */
+
+.is-live-preview .cm-hmd-frontmatter {
+    display: none;
+}

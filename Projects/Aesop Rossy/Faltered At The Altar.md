@@ -1,6 +1,10 @@
 ---
 dg-publish: true
+Finished: true
+Track Number: 12
 ---
+![[FalteredAtTheAltar.mp3]]
+
 We faltered at the altar of eternal sin
 Within the fascia of our passion lay a fascist fin
 caressing carelessly made callouses where what was really needed was a softer skin

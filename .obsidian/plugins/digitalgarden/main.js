@@ -14759,7 +14759,7 @@ ${headerSection}
     return __async(this, null, function* () {
       const assets = [];
       const imageText = text;
-      const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif))\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif))\]\]/g;
+      const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif|mp3|m4a))\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif|mp3|m4a))\]\]/g;
       const transcludedImageMatches = text.match(transcludedImageRegex);
       if (transcludedImageMatches) {
         for (let i = 0; i < transcludedImageMatches.length; i++) {
@@ -14774,7 +14774,7 @@ ${headerSection}
           }
         }
       }
-      const imageRegex = /!\[(.*?)\]\((.*?)(\.(png|jpg|jpeg|gif))\)/g;
+      const imageRegex = /!\[(.*?)\]\((.*?)(\.(png|jpg|jpeg|gif|mp3|m4a))\)/g;
       const imageMatches = text.match(imageRegex);
       if (imageMatches) {
         for (let i = 0; i < imageMatches.length; i++) {
@@ -14803,7 +14803,7 @@ ${headerSection}
     return __async(this, null, function* () {
       const assets = [];
       let imageText = text;
-      const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif))\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif))\]\]/g;
+      const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif|mp3|m4a))\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif|mp3|m4a))\]\]/g;
       const transcludedImageMatches = text.match(transcludedImageRegex);
       if (transcludedImageMatches) {
         for (let i = 0; i < transcludedImageMatches.length; i++) {
@@ -14824,7 +14824,7 @@ ${headerSection}
           }
         }
       }
-      const imageRegex = /!\[(.*?)\]\((.*?)(\.(png|jpg|jpeg|gif))\)/g;
+      const imageRegex = /!\[(.*?)\]\((.*?)(\.(png|jpg|jpeg|gif|mp3|m4a))\)/g;
       const imageMatches = text.match(imageRegex);
       if (imageMatches) {
         for (let i = 0; i < imageMatches.length; i++) {

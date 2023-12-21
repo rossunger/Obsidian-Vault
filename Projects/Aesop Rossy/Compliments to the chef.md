@@ -1,6 +1,10 @@
 ---
 dg-publish: true
+sticker: emoji//1f468-200d-1f373
+Finished: true
+Track Number: 2
 ---
+![[Compliments to the chef 6.m4a]]
 Give me gorgeous gracious people, let me eat 'em 
 Let me suckle on the juices of their inspiration glowing, flowing, boom,
 like an ember to a gas can, damn, 

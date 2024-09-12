@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/LoveStories/Love Stories.md",
+                "file": "Projects/Music Game/Ideas/Quest System.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e594d1a6bf295044",
+            "id": "626338ee7a15d487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Aesop Rossy/Winds Of Change.md",
+                "file": "Projects/A Medicine Journey.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.50418853759766
+    "width": 342.50499725341797
   },
   "right": {
     "id": "12629bd8fb527448",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Aesop Rossy/Winds Of Change.md",
+                "file": "Projects/A Medicine Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Aesop Rossy/Winds Of Change.md",
+                "file": "Projects/A Medicine Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,12 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Aesop Rossy/Winds Of Change.md"
+                "file": "Projects/A Medicine Journey.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,42 +161,47 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e594d1a6bf295044",
+  "active": "626338ee7a15d487",
   "lastOpenFiles": [
-    "Projects/Aesop Rossy/What Comes Around, Goes Around.md",
-    "Projects/Aesop Rossy/Two steps back, one step forward.md",
-    "Projects/Aesop Rossy/The Baker And His Friend.md",
-    "Projects/Aesop Rossy/Shapeshifting.md",
-    "Projects/Aesop Rossy/Measure Twice, Cut Once.md",
-    "Projects/Aesop Rossy/I Want.md",
-    "Projects/Aesop Rossy/Faltered At The Altar.md",
-    "Projects/Aesop Rossy/Exile.md",
-    "Projects/Aesop Rossy/Defibrillate.md",
-    "Projects/Aesop Rossy/Compliments to the chef.md",
+    "Untitled 1.canvas",
+    "Projects/A Medicine Journey.md",
+    "2024May23 Spirit game brainstorm.md",
+    "spirit_game_cards.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 4.canvas",
+    "Ideas/Ideas.md",
+    "Projects/Music Game/Ideas/Quest System.md",
+    "Untitled.canvas",
+    "Projects/Aesop Rossy/Tension and Release.md",
     "Projects/Aesop Rossy/Aesop Rossy.md",
-    "Projects/LoveStories/Vol2/KindredSpirits1.mp3",
-    "nov2023 brainstrom.md",
-    "Drum and Sash.md",
+    "Projects/Aesop Rossy/Exile.md",
+    "Projects/Aesop Rossy/Phoenix Rising.md",
     "Projects/Games/Talking To Your Parts game.md",
-    "Projects/Games/Climate War Game.md",
+    "Projects/Islands Of Resistance/Scenes/Vensaag Intro.md",
+    "Projects/Van Stories.md",
+    "Projects/LoveStories/Love Stories.md",
+    "Ideas/Dialog builder.md",
     "Ideas/Coming Home Festival.md",
+    "Untitled.md",
+    "Ideas/Email to clients January 2024.md",
+    "Projects/Music Game/nov2023 brainstrom.md",
+    "Projects/Music Game/Music Game.md",
+    "Projects/Music Game/Ideas/Map System.md",
+    "Projects/Music Game/Ideas/What has a spirit.canvas",
+    "Projects/Music Game/Untitled.md",
+    "Projects/Music Game/Ideas/Ideas.md",
+    "Home.md",
+    "readme.md",
+    "Projects/Music Game/Spirits.md",
+    "Projects/Music Game/CHARACTER STATES.canvas",
+    "Projects/Music Game/Ideas/Tobacco Prayer.md",
+    "Projects/LoveStories/Vol2/KindredSpirits1.mp3",
     "Spaces/Home",
     "Spaces",
-    "Home.md",
-    "Ideas/Troy Art Game.md",
-    "Ideas/Ross Map.md",
-    "Projects/Music Game/Untitled.md",
-    "Maps/Maps.md",
-    "Ideas/Lakota Teachings.md",
-    "Ideas/Obsidian Thoughts.md",
-    "Ideas/Feelings.md",
-    "Ideas/Ideas.md",
     "Projects/Aesop Rossy/Audio/Exile2.m4a",
     "Projects/Aesop Rossy/Audio/The Baker and his friend.m4a",
     "Projects/Aesop Rossy/Audio/Defibrillate.m4a",
-    "Projects/Aesop Rossy/What I've learned from phones about lovers.md",
-    "Projects/Music Game/Ideas/What has a spirit.canvas",
-    "Projects/Music Game/CHARACTER STATES.canvas",
     "Context/Music Game.mdb",
     "Projects/Music Game/context.mdb",
     "Projects/Music Game/Ideas",

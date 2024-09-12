@@ -1389,21 +1389,6 @@ Observing, deserving, we deserve to be happy, take the time to be present,
 To be pleasant, you’re a gift, I give you, I’ll give to you, anything, everything. 
 
   
-### BROKEN
-Get me out of this awful place  
-Help me out here I’m broken  
-Tell me how to get of here  
-Help me out here I’m broken  
-  
-And I heave and I cry and I hope I die
-And I’m steel till I break and I don’t know why 
-
-And I’m tired of feeling broken
-And I’m tired of not knowing 
-And I’m tired of what’s left unspoken
-When I’m feeling alone
-
-
 ### We Found God
 ![[WeFoundGod.mp3]]
 We found god
@@ -1492,6 +1477,19 @@ and I feel and I sigh and I always try
 and I'm tired of __
 and I'm tired of 
 and I'm tired of not knowing
+
+Get me out of this awful place  
+Help me out here I’m broken  
+Tell me how to get of here  
+Help me out here I’m broken  
+  
+And I heave and I cry and I hope I die
+And I’m steel till I break and I don’t know why 
+
+And I’m tired of feeling broken
+And I’m tired of not knowing 
+And I’m tired of what’s left unspoken
+When I’m feeling alone
 
 
 ### Daydream

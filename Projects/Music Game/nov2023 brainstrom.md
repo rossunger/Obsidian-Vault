@@ -1,7 +1,5 @@
 Blender Addon
-
 SQLite integration
-
 Godot ECS
 
 

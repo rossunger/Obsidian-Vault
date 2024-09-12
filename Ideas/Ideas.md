@@ -1,0 +1,39 @@
+ORACLE CARDS
+- 13 moons deck
+	- each moon has 4 phases (or 8 phases?)
+		- new moon,
+		- waxing crescent, 
+		- first quarter, 
+		- waxing gibbous, 
+		- full moon, 
+		- waning gibbous, 
+		- last quarter, 
+		- waning crescent.
+	- 
+- starlodge deck
+	- minor arcana (16):
+		- teachers and prophets e, s, w, n
+		- pipecarriers e,s,w,n
+		- lodgekeepers, e,s,w,n
+		- healers e,s,w,n
+	- major arcana:
+		- creator
+		- 4 directions, seasons, times of day
+		- birthing doorway, coming of age, elderhood, death
+		- healing doorway
+		- earth, sun, moon, stars, constellations
+		- Gifts
+			- wings and hides
+			- drums and songs
+			- prints and offerings
+			- pipes
+		- thunderbeings, sabe, little people, 
+		- 4 sacred waters, fire
+		- medicines 
+			- sweetgrass, sage,  northern fungus, cedar
+			- bear root
+			- red willow bark
+		- ~~7 colors~~
+		- ~~childhood, adulthood, elderhood, spirithood~~
+		- cedar ring
+- 

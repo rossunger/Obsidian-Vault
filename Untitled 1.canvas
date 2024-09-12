@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d51e6915357221c6","x":-380,"y":-280,"width":250,"height":60,"type":"text","text":"Database Editor"},
+		{"id":"4a6523e6b0eb7007","x":-125,"y":-30,"width":325,"height":60,"type":"text","text":"UI / Interaction system"},
+		{"id":"1ac2cb2a7f97d226","x":-681,"y":-67,"width":301,"height":67,"type":"text","text":"Dialog / Quest system"},
+		{"id":"a801ffba7a6aa343","x":-250,"y":121,"width":310,"height":60,"type":"text","text":"Refactoring for modularity"}
+	],
+	"edges":[]
+}
